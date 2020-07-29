@@ -1,5 +1,5 @@
 ---
-#permalink: /
+permalink: /
 layout: home3
 description: "Nauroze's website"
 excerpt: "About me"
