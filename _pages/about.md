@@ -10,7 +10,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+image:
+  feature: 
+---
 I received my BSc. in Computer Engineering (honors) from University of Engineering & Technology, Taxila (Pakistan) in 2005, MSc. in Electrical Engineering (Wireless Systems) from Royal Institute of Technology (KTH) Stockholm, Sweden in 2008, MSc. and PhD in Electrical and Computer Engineering (Electromagnetics & MEMS) from Georgia Institute of Technology, Atlanta, USA in 2018 and 2019 respectively. I am also a recipient of prestigiuos Fulbright and Swedish Institue scholarship for PhD and MSc. in 2014 & 2006 respectively.
 
 During Fall 2017, I worked at Qualcomm San Diego (USA) as part of the 5G antenna design team to design, test and realize 5G phased array antennas for handheld devices. In 2018, I was awarded National Science Foundation fellowship under [Innovation Corps (I-Corps)](https://www.nsf.gov/news/special_reports/i-corps/) program which lead to establishment of an Atlanta based tech startup -- Atheraxon. The focus of the company is to provide long-range (up-to 1 km) wireless RFID-based sensors for smart agriculture, asset tracking and environmental monitoring. In summer 2019, I worked with Amazon Lab126 (Sunnyvale, CA) as a hardware/antenna engineer to design smart noise immune antennas to improve desence in Alexa enabled devices while reducing their cost, fabrication complexity and size. 
@@ -32,10 +34,7 @@ My primary research interests lie at the intersection of art, deployable structu
   + RF packaging
   
 #### Education
-  courses:
-    - course: PhD in Electrical Engineering
-      institution: Georgia Institute of Technology, Atlanta, USA
-      year: "2019"
+  + PhD in Electrical Engineering (2019)\n Georgia Institute of Technology, Atlanta, USA
     - course: "MSc in Electrical Engineering "
       institution: Georgia Institute of Technology, Atlanta, USA
       year: "2018"
