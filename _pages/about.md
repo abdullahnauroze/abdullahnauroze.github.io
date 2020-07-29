@@ -4,14 +4,9 @@ permalink: /
 description: "Nauroze's website"
 excerpt: "About me"
 author_profile: true
-tags: [Jekyll, theme, responsive, blog, template]
-
 redirect_from: 
   - /about/
   - /about.html
----
-image:
-  feature: 
 ---
 I received my BSc. in Computer Engineering (honors) from University of Engineering & Technology, Taxila (Pakistan) in 2005, MSc. in Electrical Engineering (Wireless Systems) from Royal Institute of Technology (KTH) Stockholm, Sweden in 2008, MSc. and PhD in Electrical and Computer Engineering (Electromagnetics & MEMS) from Georgia Institute of Technology, Atlanta, USA in 2018 and 2019 respectively. I am also a recipient of prestigiuos Fulbright and Swedish Institue scholarship for PhD and MSc. in 2014 & 2006 respectively.
 
