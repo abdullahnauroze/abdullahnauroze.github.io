@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Nauroze Homepage"
 excerpt: "About me"
 author_profile: true
 bio: My research interests include shape reconfigurable RF structures, origami
