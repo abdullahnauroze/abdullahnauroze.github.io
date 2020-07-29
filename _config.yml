@@ -112,27 +112,27 @@ author:
   #youtube          :
   #wikipedia        :
 
-# Links to include in top navigation
-# For external links add external: true
-links:
-  - title: Research
-    url: /research/
-  - title: Publications
-    url: /publications/    
-  - title: Teaching
-    url: /teaching/      
-  - title: Service
-    url: /service/      
-  - title: Team
-    url: /theia/      
-  - title: Contact
-    url: /contact/  
+## Links to include in top navigation
+## For external links add external: true
+#links:
+#  - title: Research
+#    url: /research/
+#  - title: Publications
+#    url: /publications/    
+#  - title: Teaching
+#    url: /teaching/      
+#  - title: Service
+#    url: /service/      
+#  - title: Team
+#    url: /theia/      
+#  - title: Contact
+#    url: /contact/  
 
 # Reading Files
 include:
   - .htaccess
- # - _pages
- # - files
+  - _pages
+  - files
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -193,19 +193,19 @@ coderay:
     coderay_css: class
 
 # Collections
-#collections:
-#  teaching:
-#    output: true
-#    permalink: /:collection/:path/
-#  publications:
-#    output: true
-#    permalink: /:collection/:path/
-#  portfolio:
-#    output: true
-#    permalink: /:collection/:path/
-#  talks:
-#    output: true
-#    permalink: /:collection/:path/
+collections:
+  teaching:
+    output: true
+    permalink: /:collection/:path/
+  publications:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
 
 
 
