@@ -1,12 +1,10 @@
 ---
-#permalink: /
+permalink: /
 layout: home3
 description: "Nauroze's website"
 excerpt: "About me"
-#author_profile: true
-image:
-  feature: 
----
+author_profile: true
+
 redirect_from: 
   - /about/
   - /about.html
