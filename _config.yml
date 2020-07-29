@@ -7,7 +7,7 @@ title                    : "Nauroze Homepage"
 #description              : &description "RF Engineer"
 description              : "Welcome to my site"
 
-url                      : https://www.nauroze.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://www.nauroze.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "abdullahnauroze/abdullahnauroze.github.io"
 #teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
