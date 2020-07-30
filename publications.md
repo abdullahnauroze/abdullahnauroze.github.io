@@ -90,5 +90,6 @@ sidebar:
 
 ## Workshops
 
-* Origami-inspired shaped reconfigurable tunable RF structures using additive manufacturing technologies – _IEEE International Symposium on Antenna and Propagation (APS-URSI)_, Atlanta, GA, 2019
+* Origami-inspired shaped reconfigurable tunable RF structures using additive manufacturing technologies – _IEEE International Symposium on Antenna and Propagation (APS-URSI)_, Atlanta, GA, 2019.
+
 * Next generation of origami-based tunable RF structures using additive manufacturing – _FlexTech Conference, Monetary, CA, 2017_
