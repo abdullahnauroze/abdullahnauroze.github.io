@@ -5,8 +5,9 @@ admin_path:
 webhook_url: 
 sections:
 - type: jekyll-pages
-  label: Pages
+  label: pages
   create: all
+  match: "**/*"
 - type: jekyll-posts
   label: Posts
   create: all
