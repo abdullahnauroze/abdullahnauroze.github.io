@@ -82,7 +82,7 @@ owner:
   location         : "Atlanta, USA"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=PyiqnwoAAAAJ&hl=en"
+  google_scholar    : "https://scholar.google.com/citations?user=PyiqnwoAAAAJ&hl=en"
   email            : "nauroze@gatech.edu"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   #uri              :
