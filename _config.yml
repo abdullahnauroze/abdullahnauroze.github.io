@@ -82,7 +82,7 @@ owner:
   location         : "Atlanta, USA"
   employer         : "Georgia Institute of Technology"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  google_scholar    : "PyiqnwoAAAAJ&hl"
+  google_scholar    : PyiqnwoAAAAJ&hl
   email            : "nauroze@gatech.edu"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   #uri              :
@@ -98,7 +98,7 @@ owner:
   #instagram        :
   #impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   #lastfm           :
-  linkedin         : "https://www.linkedin.com/in/syedabdullahnauroze"
+  linkedin          :  syedabdullahnauroze
   #orcid            : 
   #pinterest        :
   #soundcloud       :
