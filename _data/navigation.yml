@@ -55,16 +55,16 @@ sidebar-research:
 
 
 sidebar-pubs:
+  - title: "Book"
+    url: /publications/#book
+  - title: "Book chapters"
+    url: /publications/#book-chapters  
   - title: "Journals"
     url: /publications/#journals
   - title: "Conferences"
     url: /publications/#conferences
-  - title: "Technical Reports"
-    url: /publications/#technical-reports
-  - title: "Others"
-    url: /publications/#others   
-
-
+   
+   
 sidebar-news:
   - title: "2019"
     url: /news/#2019
