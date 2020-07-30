@@ -75,7 +75,7 @@ future                   : true
 
 
 # Site Author
-author:
+owner:
   name             : "Syed A. Nauroze"
   avatar           : "profile.png"
   bio              : "RF Engineer"
