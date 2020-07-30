@@ -166,14 +166,12 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 # Conversion
 markdown: kramdown
-#kramdown:
-#  extensions: ["strikethrough"]
+kramdown:
+  extensions: ["strikethrough"]
 highlighter: rouge
 #lsi: false
 #excerpt_separator: "\n\n"
 #incremental: false
-kramdown:
-  extensions: ["strikethrough"]
 
 # Markdown Processing
 kramdown:
