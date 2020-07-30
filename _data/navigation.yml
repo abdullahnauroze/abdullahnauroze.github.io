@@ -37,7 +37,7 @@ sidebar-service:
 
 sidebar-research:
   - title: "Overview"
-    url: /research/
+    url: /application/
   - title: "Cloud Imaging"
     url: /cloud/
   - title: "Solar Analytics"
