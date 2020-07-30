@@ -25,12 +25,10 @@ sidebar-theia:
     
     
 sidebar-service:
-  - title: "Organizing Committee"
-    url: /service/#organizing-committee
-  - title: "Technical Program Committee"
-    url: /service/#technical-program-committee
   - title: "Talks"
     url: /service/#talks
+  - title: "Mentorship"
+    url: /service/#mentorship
   - title: "Referee"
     url: /service/#referee
 
@@ -55,8 +53,8 @@ sidebar-research:
 
 
 sidebar-pubs:
-  - title: "Book"
-    url: /publications/#book
+  - title: "Books"
+    url: /publications/#books
   - title: "Book chapters"
     url: /publications/#book-chapters  
   - title: "Journals"
