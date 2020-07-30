@@ -87,3 +87,8 @@ sidebar:
 * Abdullah Nauroze, Omar Sidiqui, Rashad Ramzan and Omar Ramahi, “Energy Tunneling in Wire-loaded Microstrip Cavities”, _IEEE Int. Conf. on Meta Materials, Photonic Crystals and Plasmonics (META)_, 2013.
 
 * Ben Slimane, S.; Xuesong Li; Bo Zhou; Nauroze Syed; Dheim, “Delay Optimization in Cooperative Relaying with Cyclic Delay Diversity”, _IEEE International Conference on Communications_, pp. 3553-3557, May 2008.
+
+## Workshops
+
+* Origami-inspired shaped reconfigurable tunable RF structures using additive manufacturing technologies – _IEEE International Symposium on Antenna and Propagation (APS-URSI)_, Atlanta, GA, 2019
+* Next generation of origami-based tunable RF structures using additive manufacturing – _FlexTech Conference, Monetary, CA, 2017_
