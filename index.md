@@ -10,7 +10,6 @@ tags:
 - template
 image:
   feature: 
-published: false
 
 ---
 Dr. Nauroze, a Fulbright and Swedish Institute scholar, received his BSc. in Computer Engineering (honors) from University of Engineering & Technology, Taxila (Pakistan) in 2005, MSc. in Electrical Engineering (Wireless Systems) from Royal Institute of Technology (KTH) Stockholm, Sweden in 2008, MSc. and PhD in Electrical and Computer Engineering (Electromagnetics & MEMS) from Georgia Institute of Technology, Atlanta, USA in 2018 and 2019 respectively. He also holds Management of Technology certificate from Scheller School of Business (Georgia Institute of Technology) with focus on entrepreneurship & small business development.
