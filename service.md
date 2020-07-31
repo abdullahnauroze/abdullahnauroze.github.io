@@ -22,7 +22,7 @@ sidebar:
 * Nature - Scientific reports
 * IEEE Antenna & Propagation Letters (AWPL)
 * Elsevier - Additive Manufacturing Journal 
-* _MDPI - Sensors_
-* _MDPI - Applied Sciences_
-* _IEEE International Symposium on Antennas and Propagation_
-* _IEEE Radio & Wireless Symposium_
+* MDPI - Sensors_
+* MDPI - Applied Sciences
+* IEEE International Symposium on Antennas and Propagation
+* IEEE Radio & Wireless Symposium
