@@ -116,11 +116,11 @@ owner:
 ## For external links add external: true
 links:
   - title: Research
-    url: /research/
+    url: /research2/
   - title: Publications
     url: /publications/    
   - title: Teaching
-    url: /teaching/      
+    url: /teaching2/      
   - title: Service
     url: /service/      
   #- title: Team
