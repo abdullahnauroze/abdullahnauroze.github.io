@@ -9,6 +9,8 @@ tags:
 - desense
 - Reflectarrays
 - frequency selective surfaces
+- flexible electronics
+- printed electronics
 image:
   feature: 
 
