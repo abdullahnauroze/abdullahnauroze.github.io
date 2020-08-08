@@ -21,6 +21,7 @@ sidebar:
 
 * Nature - Scientific reports
 * IEEE Antenna & Propagation Letters (AWPL)
+* IEEE Transactions on Antennas & Propagation (TAP)
 * Elsevier - Additive Manufacturing Journal 
 * MDPI - Sensors
 * MDPI - Applied Sciences
