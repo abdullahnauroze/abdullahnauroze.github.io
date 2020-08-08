@@ -15,7 +15,7 @@ sidebar:
 
 ### Mentorship
 
-* _National Incubation Center, Lahore_ (July 2020 – Present) – I work with a Lahore-based tech startup _TutorMe_ and help them increase number of investors. The startup has produced more than 1000 jobs so far.
+* _National Incubation Center, Lahore_ (July 2020 – Present) – I work with a Lahore-based national incubation center to mentor new startups to get new customers and attract VC fundings in Pakistan and US.
 
 ### Referee
 
