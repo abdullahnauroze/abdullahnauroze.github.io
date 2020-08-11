@@ -17,7 +17,7 @@ sidebar:
 
 * _National Incubation Center, Lahore_ (July 2020 – Present) – I work with a Lahore-based national incubation center to mentor new startups to get new customers and attract VC fundings in Pakistan and US.
 
-### Reviewer
+### Journal reviewer
 
 * Nature - Scientific reports
 * IEEE Antenna & Propagation Letters (AWPL)
