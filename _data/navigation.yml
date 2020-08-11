@@ -29,8 +29,11 @@ sidebar-service:
     url: /service/#talks
   - title: "Mentorship"
     url: /service/#mentorship
-  - title: "Referee"
+  - title: "Journal reviewer"
     url: /service/#referee
+  - title: "Technical review committee member"
+    url: /service/#Technical-review-committee-member
+    
 
 
 sidebar-research:
