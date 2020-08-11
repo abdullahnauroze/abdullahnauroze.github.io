@@ -124,7 +124,7 @@ links:
   - title: Service
     url: /service/
   - title: CV
-    url: "nauroze_resume.pdf"
+    url: "/files/nauroze_resume.pdf"
   #- title: Team
   #  url: /theia/      
   #- title: Contact
