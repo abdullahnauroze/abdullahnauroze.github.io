@@ -122,7 +122,9 @@ links:
   - title: Teaching
     url: /teaching2/      
   - title: Service
-    url: /service/      
+    url: /service/
+  - title: CV
+    url: "nauroze_resume.pdf"
   #- title: Team
   #  url: /theia/      
   #- title: Contact
