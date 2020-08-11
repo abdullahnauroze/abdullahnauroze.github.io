@@ -17,7 +17,7 @@ sidebar:
 
 * _National Incubation Center, Lahore_ (July 2020 – Present) – I work with a Lahore-based national incubation center to mentor new startups to get new customers and attract VC fundings in Pakistan and US.
 
-### Referee
+### Reviewer
 
 * Nature - Scientific reports
 * IEEE Antenna & Propagation Letters (AWPL)
@@ -25,5 +25,7 @@ sidebar:
 * Elsevier - Additive Manufacturing Journal 
 * MDPI - Sensors
 * MDPI - Applied Sciences
+
+### Technical review committee member
 * IEEE International Symposium on Antennas and Propagation
 * IEEE Radio & Wireless Symposium
