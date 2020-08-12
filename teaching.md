@@ -15,80 +15,73 @@ sidebar:
 
 
 
-## 2020
+## 2017-19
 
-#### COMP47360-Research Practicum (MSc Conv)<br><sup>Trimester III, AY 2019-20, University College Dublin</sup>
-I am currently mentoring students, in their research practicum. The Research Practicum is a core component of the MSc Computer Science (Conversion) programme and offers an opportunity to build on the skills attained during the modules of the first two trimesters through a research and development project. Please see <a href="https://brightspace.ucd.ie/d2l/home/54595">the Brightspace page</a> for all the related details.
-
-#### COMP47200 Dissertation<br><sup>Trimester III, AY 2019-20, University College Dublin</sup>
-I am currently supervising 1 student, in its dissertation project. The COMP47200 Dissertation is one of three possible routes to complete a 30 credit research requirement within the Negotiated Learning programme. Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=877">the CS moodle page</a> for all the related details.
-
-
-#### COMP3037J/EEEN3010J IoT Final Year Project<br><sup>Trimester II, AY 2019-20, Beijing-Dublin International College, University College Dublin</sup>
-I am currently supervising 8 students, in their final year Internet of Things (IoT) projects. Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=779">the CS moodle page</a> for all the related details.
-
-
-#### COMP3032J SE Degree Project<br><sup>Trimester II, AY 2019-20, Beijing-Dublin International College, University College Dublin</sup>
-I am currently supervising 8 students, in their final year software engineering projects. Please see <a href="https://brightspace.ucd.ie/d2l/home/59270">the Brightspace page</a> for all the related details.
-
-## 2019
-
-#### COMP30910-FYP: Design and Implementation<br><sup>Trimester I & II, AY 2019-20, University College Dublin</sup>
-I am currently supervising 1 student, in its final year project. Please see <a href="https://brightspace.ucd.ie/d2l/home/67116">the Brightspace page</a> for all the related details.
-
-#### COMP3005J Agile Processes<br><sup>Trimester I, AY 2019-20, Beijing-Dublin International College, University College Dublin</sup>
-I lectured a course on Agile Processes, for degree in BSc Software Engineering. Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=798">the CS moodle page</a> for course notes + assessments.<br>
-Please contact the Head Teaching Assistant: <a href="mailto:Xingyu.Pan@ucdconnect.ie">Xingyu Pan (Star)</a>, for further details.
-
-
-#### COMP3008J Distributed Systems<br><sup>Trimester I, AY 2019-20, Beijing-Dublin International College, University College Dublin</sup>
-I lectured a course on Distributed Systems, for degree in BSc Software Engineering. Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=796">the CS moodle page</a> for course notes + assessments.<br>
-Please contact the Head Teaching Assistant: <a href="mailto:Xingyu.Pan@ucdconnect.ie">Xingyu Pan (Star)</a>, for further details.
-
-
-#### COMP3020J Information Security for the Internet of Things<br><sup>Trimester I, AY 2019-20, Beijing-Dublin International College, University College Dublin</sup>
-I lectured a course on Information Security for the Internet of Things, for degree in BSc Internet of Things. Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=797">the CS moodle page</a> for course notes + assessments.<br>
-Please contact the Head Teaching Assistant: <a href="mailto:Xingyu.Pan@ucdconnect.ie">Xingyu Pan (Star)</a>, for further details.
-
-
-#### H9PDA: Programming for Data Analytics<br><sup>Semester III, AY 2018-19, National College of Ireland</sup>
-I lectured a course on <a href="http://courses.ncirl.ie/index.cfm/page/module/moduleId/20375">H9PDA: Programming for Data Analytics</a>, for degree in Masters in Cloud Computing. Please see <a href="https://moodle.ncirl.ie/course/view.php?id=1464">the moodle page</a> for course notes + assignments.
-
-#### H8BGD: Programming for Big Data<br><sup>Semester II, AY 2018-19, National College of Ireland</sup>
-I lectured a course on <a href="http://courses.ncirl.ie/index.cfm/page/module/moduleId/21358">Programming for big data</a>, for Higher Diploma in Science in Data Analytics. Please see <a href="https://moodle.ncirl.ie/course/view.php?id=1605">the moodle page</a> for course notes + assignments.
-
-#### EEU44C08: Digital Image and Video Processing<br><sup> 2018-19, Trinity College Dublin</sup>
-I was a Teaching Assistant, conducting the lab sessions of [EEU44C08 Digital Image and Video Processing](https://github.com/frcs/EE4C08), for fourth year undergraduates of Trinity College Dublin. Please see <a href="https://tcd.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course_entry&course_id=_46876_1&handle=announcements_entry&mode=view">this blackboard page</a>, for lab handouts.
-
-
-## 2018
-#### H9PDA: Programming for Data Analytics<br><sup>Semester I, AY 2018-19, National College of Ireland</sup>
-I lectured a course on <a href="http://courses.ncirl.ie/index.cfm/page/module/moduleId/20375">H9PDA: Programming for Data Analytics</a>, for degree in Masters in Cloud Computing. Please see <a href="https://moodle.ncirl.ie/course/view.php?id=1319">the moodle page</a> for course notes + assignments.
-
-
-## 2016
-#### EE2008: Data Structures and Algorithms<br><sup>Semester I, AY 2016-17, Nanyang Technological University Singapore</sup>
-In Sem 1 AY 2016-17, I was involved in peer-tutoring sessions for the course EE2008: Data Structures and Algorithms. This was a special course offering, that was conducted, under the direction of our school's <a href="http://www.eee.ntu.edu.sg/Programmes/CurrentStudents/sws/AcademicCounselling/Pages/Home.aspx">pastoral care office</a>. 
-
-
-## 2015
-#### EE2008: Data Structures and Algorithms<br><sup>Semester II, AY 2015-16, Nanyang Technological University Singapore</sup>
-During my doctoral program, I was a Teaching Assistant for the course <a href="https://eee.ntu.edu.sg/Programmes/CurrentStudents/undergraduate/undergraduatefull-time/Documents/EE2008.pdf">EE2008: Data Structures and Algorithms</a>. I have taught this course for <a href="http://www3.ntu.edu.sg/home2012/SOUMYABR001/teach_AY2015.html">Sem 2 AY 2015-16</a> session. 
-
+#### ECE4350-Electromagnetic & Microwave Applications <br><sup>Fall 2019,18,17, Georgia Institute of Technology, Atlanta (USA)</sup>
+I delivered guest lectures for the course three years in a row. The lectures mostly covered use of origami principles for realization of next-generation of RF and microwave structures.
 
 ## 2014
-#### EE2008: Data Structures and Algorithms<br><sup>Semester I, AY 2014-15, Nanyang Technological University Singapore</sup>
-Additionally, in 2014, I taught this course for <a href="http://www3.ntu.edu.sg/home2012/SOUMYABR001/teach_AY2014.html">Sem 1 AY 2014-15</a>, for which I am the recipient of <a href="https://soumyabratadev.files.wordpress.com/2016/07/teaching_award_fall2014.pdf">Commendable Teaching Assistant award</a> from NTU Singapore. 
+
+#### EE-483 FYP: Intelligent home safety and anti-theft device<br><sup>Spring 2014, National University of Computer & Emerging Science, Islamabad (Pakistan)
+</sup>
+I supervised two undergraduate students (M. Qamar Islam & Humayun Sajid) for their final year project. The aim of the project was to realize a smart home security device that used GSM services to alert the authorities and neighbors in case of a break-in via mass text service. The device was especially designed to meet the demands of the Pakistani cities which did not have mobile internet services. Mr. Islam is currently working with IBM (Pakistan) as a data scientist.
+
+#### EE-223 Signals & Systems<br><sup> Summer & Spring 2014, National University of Computer & Emerging Science, Islamabad (Pakistan)</sup>
+I taught the undergraduate course to BSc. Electrical Engineering class of 50 students. The aim of the course was to develop a detailed understanding of LTI systems through mathematical analysis. It enabled the students to have a deep insight about the information contents of a signal and the different ways to process it, understand the critical issues in linear systems and get a vision to improve them. At the end of the course, the students were be able to implement various systems in Matlab and process information according to the requirements with due consideration to stability issues.
 
 
-<!---
-## Outreach
-I am also involved in outreach activities and teaching Junior College students, as a part of the university outreach programs. I participate regularly in public engagement programmes conducted by ADAPT Centre, Dublin. I also worked on fun and interesting projects during my doctoral program at NTU. I taught students how to build antenna using regular tin cans (more popularly known as <a href="https://en.wikipedia.org/wiki/Cantenna">cantenna</a>). Additionally, I explained arduino programming using a block of LEDs - check out our <a href="http://www3.ntu.edu.sg/home2012/SOUMYABR001/ledcube.html">LED Cube workshop</a> page. 
+## 2013
+#### EE-305 Electromagnetic theory<br><sup>Fall 2013, National University of Computer & Emerging Science, Islamabad (Pakistan)</sup>
+I taught the undergraduate course to BSc. Electrical Engineering class of 140 students.
+
+#### EE-308 Microwave Engineering<br><sup>Spring & Summer 2013, National University of Computer & Emerging Science, Islamabad (Pakistan)</sup>
+I taught the undergraduate course to BSc. Telecommunication Engineering class of 60 and 30 students in spring and summer semesters respectively.
+
+#### EE-483 FYP: Reduced size printed 2.4GHz helical antenna<br><sup>Spring 2013, National University of Computer & Emerging Science, Islamabad (Pakistan)</sup>
+I supervised two undergraduate students (Muddassar Nauman & Sohaib Anwar) for their final year project. The aim of the project was to investigate and fabricate a reduced-size printed helical antenna for WiFi band on regular PCB. Mr. Nauman is recipient of highly competitive Chief Minister Merit Scholarship (Pakistan) and working in NEMS Lab at Australian National University as a Ph.D. student. Mr. Anwar is currently working at Nokia (Pakistan).
+
+#### EE-105 Digital Logic Circuits Lab<br><sup>Spring 2013, National University of Computer & Emerging Science, Islamabad (Pakistan)</sup>
 
 
-I supervise students in their Master of Science (MSc) research thesis, and also mentor Final Year Projects (FYPs) and <a href="http://www.ntu.edu.sg/TalentOutreach/NRP/Pages/index.aspx">Nanyang Research Program</a> (NRP) projects. 
--->
+## 2012
+#### EE-305 Electromagnetic theory<br><sup>Fall and Spring 2012, National University of Computer & Emerging Science, Islamabad (Pakistan)</sup>
+I taught the undergraduate course to BSc. Electrical Engineering class of 140 and 50 students in fall and spring semesters respectively.
 
+#### EE-407 Wave Propagation and Antenna Theory<br><sup>Spring 2012, National University of Computer & Emerging Science, Islamabad (Pakistan)</sup>
+I taught the undergraduate course to BSc. Telecommunication Engineering class of 50 students.
+
+
+## 2011
+#### EE330 EM Fields & Waves<br><sup>Fall 2011, LUMS - Syed Babar Ali School of Science & Engineering (Pakistan)</sup>
+I was TA for the course and gave tutorial sessions for the class. I was also responsible for designing quizzes and assignments for the course.
+
+#### EE220 Digital Logic Circuits<br><sup>Spring 2011, LUMS - Syed Babar Ali School of Science & Engineering (Pakistan)</sup>
+I was TA for the course and gave tutorial sessions for the class. I was also responsible for designing quizzes and assignments for the course.
+
+## 2010
+#### EE241 Basic Electronics Lab<br><sup>Fall 2010, LUMS - Syed Babar Ali School of Science & Engineering (Pakistan)</sup>
+I lead the course for freshman undergraduate course which was taken by students from various disciplines of the school. I was also responsible for designing all the lab manual.
+
+#### EE210 Signals & Systems<br><sup>Spring 2010, LUMS - Syed Babar Ali School of Science & Engineering (Pakistan)</sup>
+I was TA for the course and gave tutorial sessions for the class. I was also responsible for designing quizzes and assignments for the course.
+
+
+## 2009
+#### EE241 Basic Electronics Lab<br><sup>Fall 2009, LUMS - Syed Babar Ali School of Science & Engineering (Pakistan)</sup>
+I lead the course for freshman undergraduate course which was taken by students from various disciplines of the school. I was also responsible for designing all the lab manual.
+
+#### CP-410 Queuing Theory<br><sup>Spring 2009, University of Engineering & Technology, Taxila (Pakistan)</sup>
+I taught the undergraduate course to BSc. Computer Engineering class of 50 students.
+
+#### MA-109 Linear Algebra & Differential Equations<br><sup>Spring 2009, University of Engineering & Technology, Taxila (Pakistan)</sup>
+I taught the undergraduate course to BSc. Computer Engineering class of 150 students.
+
+## 2005
+#### CP-103 Computer Programming<br><sup>Spring 2005, University of Engineering & Technology, Taxila (Pakistan)</sup>
+I taught the undergraduate course which covers basics of object oriented programming (C++) to freshman computer engineering class of 150 students.
+
+#### CP-104 Electronics-I<br><sup>Spring 2005, University of Engineering & Technology, Taxila (Pakistan)</sup>
+I taught the undergraduate course BSc. computer engineering class of 50 students.
 
 
 
