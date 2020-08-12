@@ -82,19 +82,20 @@ sidebar-news:
 
 
 sidebar-teaching:
-  - title: "2020"
-    url: /teaching/#2020
-  - title: "2019"
-    url: /teaching/#2019
-  - title: "2018"
-    url: /teaching/#2018
-  - title: "2016"
-    url: /teaching/#2016
-  - title: "2015"
-    url: /teaching/#2015
+  - title: "2017-19"
+    url: /teaching/#2017-19
   - title: "2014"
     url: /teaching/#2014
-
+  - title: "2013"
+    url: /teaching/#2013
+  - title: "2012"
+    url: /teaching/#2012
+  - title: "2010"
+    url: /teaching/#2010
+  - title: "2009"
+    url: /teaching/#2009
+  - title: "2005"
+    url: /teaching/#2005
 
 
 sidebar-application:
