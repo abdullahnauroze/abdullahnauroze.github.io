@@ -22,8 +22,7 @@ I delivered guest lectures for the course three years in a row. The lectures mos
 
 ## 2014
 
-#### EE-483 FYP: Intelligent home safety and anti-theft device<br><sup>Spring 2014, National University of Computer & Emerging Science, Islamabad (Pakistan)
-</sup>
+#### EE-483 FYP: Intelligent home safety and anti-theft device<br><sup>Spring 2014, National University of Computer & Emerging Science, Islamabad (Pakistan)</sup>
 I supervised two undergraduate students (M. Qamar Islam & Humayun Sajid) for their final year project. The aim of the project was to realize a smart home security device that used GSM services to alert the authorities and neighbors in case of a break-in via mass text service. The device was especially designed to meet the demands of the Pakistani cities which did not have mobile internet services. Mr. Islam is currently working with IBM (Pakistan) as a data scientist.
 
 #### EE-223 Signals & Systems<br><sup> Summer & Spring 2014, National University of Computer & Emerging Science, Islamabad (Pakistan)</sup>
