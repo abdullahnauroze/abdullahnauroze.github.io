@@ -31,6 +31,7 @@ I taught the undergraduate course to BSc. Electrical Engineering class of 50 stu
 
 
 ## 2013
+
 #### EE-305 Electromagnetic theory<br><sup>Fall 2013, National University of Computer & Emerging Science, Islamabad (Pakistan)</sup>
 I taught the undergraduate course to BSc. Electrical Engineering class of 140 students.
 
@@ -44,6 +45,7 @@ I supervised two undergraduate students (Muddassar Nauman & Sohaib Anwar) for th
 
 
 ## 2012
+
 #### EE-305 Electromagnetic theory<br><sup>Fall and Spring 2012, National University of Computer & Emerging Science, Islamabad (Pakistan)</sup>
 I taught the undergraduate course to BSc. Electrical Engineering class of 140 and 50 students in fall and spring semesters respectively.
 
@@ -52,6 +54,7 @@ I taught the undergraduate course to BSc. Telecommunication Engineering class of
 
 
 ## 2011
+
 #### EE330 EM Fields & Waves<br><sup>Fall 2011, LUMS - Syed Babar Ali School of Science & Engineering (Pakistan)</sup>
 I was TA for the course and gave tutorial sessions for the class. I was also responsible for designing quizzes and assignments for the course.
 
@@ -59,6 +62,7 @@ I was TA for the course and gave tutorial sessions for the class. I was also res
 I was TA for the course and gave tutorial sessions for the class. I was also responsible for designing quizzes and assignments for the course.
 
 ## 2010
+
 #### EE241 Basic Electronics Lab<br><sup>Fall 2010, LUMS - Syed Babar Ali School of Science & Engineering (Pakistan)</sup>
 I lead the course for freshman undergraduate course which was taken by students from various disciplines of the school. I was also responsible for designing all the lab manual.
 
@@ -67,6 +71,7 @@ I was TA for the course and gave tutorial sessions for the class. I was also res
 
 
 ## 2009
+
 #### EE241 Basic Electronics Lab<br><sup>Fall 2009, LUMS - Syed Babar Ali School of Science & Engineering (Pakistan)</sup>
 I lead the course for freshman undergraduate course which was taken by students from various disciplines of the school. I was also responsible for designing all the lab manual.
 
@@ -77,6 +82,7 @@ I taught the undergraduate course to BSc. Computer Engineering class of 50 stude
 I taught the undergraduate course to BSc. Computer Engineering class of 150 students.
 
 ## 2005
+
 #### CP-103 Computer Programming<br><sup>Spring 2005, University of Engineering & Technology, Taxila (Pakistan)</sup>
 I taught the undergraduate course which covers basics of object oriented programming (C++) to freshman computer engineering class of 150 students.
 
