@@ -3,7 +3,7 @@
 # locale                   : "en-US"
 title                    : "Nauroze Homepage"
 #title_separator          : "-"
-#name                     : &name "Syed A. Nauroze"
+#name                     : &name "Syed Abdullah Nauroze"
 #description              : &description "RF Engineer"
 description              : "Welcome to my site"
 
@@ -76,7 +76,7 @@ future                   : true
 
 # Site Author
 owner:
-  name             : "Syed A. Nauroze"
+  name             : "Syed Abdullah Nauroze"
   avatar           : "profile_pic.jpg"
   bio              : "RF Engineer"
   location         : "Atlanta, USA"
