@@ -23,12 +23,14 @@ The main aim of the research was to realize smart shape-reconfigurable inkjet-pr
 
 #### Media Coverage
   [Gerogia Tech Research Horizons: "Shape-shifting origami could help antenna systems adapt on the fly"](https://rh.gatech.edu/news/615202/shape-shifting-origami-could-help-antenna-systems-adapt-fly)
+  
   [Science Daily: "Shape-shifting origami could help antenna systems adapt on the fly"](https://www.sciencedaily.com/releases/2018/12/181210165109.htm)
+  
   [Aerospace & Defense Technology: "Shape-shifting origami could help antenna systems adapt on the fly"](https://www.aerodefensetech.com/component/content/article/adt/features/articles/35107)
   [Space Daily: "Shape-shifting origami could help antenna systems adapt on the fly"](https://www.spacedaily.com/reports/Shape_shifting_origami_could_help_antenna_systems_adapt_on_the_fly_999.html)
   [Technology.org: "Shape-Shifting Origami Could Help Antenna Systems Adapt On The Fly"](https://www.technology.org/2018/12/13/shape-shifting-origami-could-help-antenna-systems-adapt-on-the-fly/)
   [Engineering.com: "Origami Inspires Folding, Reconfigurable Antennas for Satellites and Electromagnetic Cloaking"](https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/18167/Origami-Inspires-Folding-Reconfigurable-Antennas-for-Satellites-and-Electromagnetic-Cloaking.aspx)
-  [Inovacao tecnologia: "Antenas que mudam de tamanho escolhem que frequência devem captar" (Brazil)](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=antenas-mudam-tamanho-escolhem-frequencia-devem-captar&id=010110181224#.XzfS6C2cY1I]
+  [Inovacao tecnologia: "Antenas que mudam de tamanho escolhem que frequência devem captar" (Brazil)](https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=antenas-mudam-tamanho-escolhem-frequencia-devem-captar&id=010110181224#.XzfS6C2cY1I)
   [Sophie Wrobel: "A morphing origami-based frequency filter" (Germany)](https://www.avesophos.de/blog/2019/04/19/a-morphing-origami-based-frequency-filter/)
   [The Engineer: "Georgia Tech team demonstrates tuneable origami inspired antennae" (UK)](https://www.theengineer.co.uk/tuneable-origami-inspired-antennae/) 
   [News Cabal: "Georgia Tech team demonstrates tuneable origami inspired antennae" (UK)](https://www.newscabal.co.uk/georgia-tech-team-demonstrates-tuneable-origami-inspired-antennae/)
