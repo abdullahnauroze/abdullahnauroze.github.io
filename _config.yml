@@ -116,7 +116,7 @@ owner:
 ## For external links add external: true
 links:
   - title: Research
-    url: /research2/
+    url: /research/
   - title: Publications
     url: /publications/    
   - title: Teaching
