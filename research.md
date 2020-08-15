@@ -14,7 +14,7 @@ sidebar:
 -->
 
 # Research 
-My research interests include deployable/foldable 4D RF structures, microfluidics, smart tunable reflector surfaces, and 3D/inkjet-printed flexible RF structures. I solve problems related to realization of tunable 3D/inkjet-printed flexible antennas, smart agriculture, e-health and smart origami-inspired tunable RF structures.  
+My research interests include deployable/foldable 4D RF structures, microfluidics, smart tunable reflector surfaces, and 3D/inkjet-printed flexible RF structures. I solve problems related to realization of tunable printed flexible antennas, smart agriculture, e-health and smart origami-inspired tunable RF structures.  
 
 
 ## [<u>Origami-inspired 4D inkjet-printed Tunable RF Structures</u>]
