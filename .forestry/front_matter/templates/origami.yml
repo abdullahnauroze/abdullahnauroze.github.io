@@ -1,0 +1,29 @@
+---
+label: origami
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: permalink
+  label: permalink
+- type: text
+  name: title
+  label: title
+- type: list
+  name: tags
+  label: tags
+- type: datetime
+  name: modified
+  label: modified
+- type: boolean
+  name: comments
+  label: comments
+- type: field_group
+  name: sidebar
+  label: sidebar
+  fields:
+  - type: text
+    name: nav
+    label: nav
