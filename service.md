@@ -25,6 +25,7 @@ sidebar:
 * Elsevier - Additive Manufacturing Journal 
 * MDPI - Sensors
 * MDPI - Applied Sciences
+* MDPI - Remote Sensing
 
 ### Technical review committee member
 * IEEE International Symposium on Antennas and Propagation
